@@ -66,7 +66,7 @@ python trans.py
 
 ### 2. 主界面说明
 
-![界面说明](docs/screenshot_ui.png)
+![界面说明](toolPic/introduction.png)
 
 - **文件设置区**  
   - 输入文件路径：选择待翻译的 Excel 文件  
